@@ -6,7 +6,7 @@ use App\User;
 class UsuarioSeeder extends Seeder
 {
     /**
-     * Run the database seeds.
+     * Run the database seeds. git hub
      *
      * @return void
      */
